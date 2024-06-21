@@ -68,3 +68,11 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+
+I had created filter function for the dynamic filter 
+
+after that I had created handleFilterChange function in that I had filter data as per the filter key and set to the setFilters 
+
+and I have binded data to the table 
+
